@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="BombDetectorApplication.jnlp">
+  <information>
+    <title>BombDetectorApplication</title>
+    <vendor>VinothPMoorthy</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="BombDetectorApplication.jar" size="3341731" download="eager" />
+    <jar href="lib\jfoenix-1.3.0.jar" size="2354699" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="BombDetectorApplication" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="pkgfinally.Finally"  name="BombDetectorApplication" />
+  <update check="always"/>
+</jnlp>

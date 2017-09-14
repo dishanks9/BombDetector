@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<StackPane id="" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="-1.0" styleClass="-fx-background-color:black;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="pkgfinally.FXMLDocumentController">
+  <children>
+    <ImageView fitHeight="1838.1743382501431" fitWidth="1990.79443359375" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="file:/C:/Users/Disha/Desktop/boston-map-big.jpg" />
+      </image>
+    </ImageView>
+    <GridPane id="GridPane" alignment="CENTER" opacity="1.0">
+      <children>
+        <RadioButton fx:id="button1" mnemonicParsing="false" style="-fx-background-color:black;" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton fx:id="button" mnemonicParsing="false" style="-fx-background-color:black;" GridPane.columnIndex="0" GridPane.rowIndex="0">
+          <textFill>
+            <RadialGradient centerX="0.5" radius="0.5">
+              <stops>
+                <Stop />
+                <Stop offset="1.0" />
+              </stops>
+            </RadialGradient>
+          </textFill>
+        </RadioButton>
+        <RadioButton fx:id="button2" mnemonicParsing="false" style="-fx-background-color:black;" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton fx:id="button3" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button4" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button5" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button6" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button7" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button8" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button9" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button10" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button11" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button12" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button13" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button14" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button15" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button16" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button17" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button18" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button19" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button20" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button21" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button22" mnemonicParsing="false" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button23" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button24" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button25" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button26" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button27" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button29" mnemonicParsing="false" style="-fx-background-color:black;" text="" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <RadioButton id="button3" fx:id="button28" alignment="BOTTOM_CENTER" contentDisplay="CENTER" mnemonicParsing="false" style="-fx-background-color:red;" text="" textAlignment="LEFT" textFill="BLACK" textOverrun="ELLIPSIS" wrapText="false" GridPane.columnIndex="0" GridPane.rowIndex="0">
+          <font>
+            <Font name="System Bold Italic" size="36.0" />
+          </font>
+        </RadioButton>
+      </children>
+      <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+      </columnConstraints>
+      <rowConstraints>
+        <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+      </rowConstraints>
+    </GridPane>
+  </children>
+</StackPane>
